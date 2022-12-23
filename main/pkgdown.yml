@@ -1,12 +1,15 @@
 pandoc: 2.19.2
-pkgdown: 2.0.6
+pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   algorithm: algorithm.html
   covariance: covariance.html
   introduction: introduction.html
+  kenward: kenward.html
   package_structure: package_structure.html
-last_built: 2022-11-08T20:34Z
+  satterthwaite: satterthwaite.html
+  tests_and_coverage: tests_and_coverage.html
+last_built: 2022-12-23T17:00Z
 urls:
   reference: https://openpharma.github.io/mmrm/main/reference
   article: https://openpharma.github.io/mmrm/main/articles
